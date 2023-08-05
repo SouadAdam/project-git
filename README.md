@@ -1,4 +1,4 @@
-# project-git
+github-final-project
 
 <!DOCTYPE html>
 <html lang="en">
